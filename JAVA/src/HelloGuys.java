@@ -7,6 +7,6 @@ public class HelloGuys {
 	}
 	
 	public void hello(){
-		
+		System.out.println("Hello I am in hello method()");
 	}
 }
