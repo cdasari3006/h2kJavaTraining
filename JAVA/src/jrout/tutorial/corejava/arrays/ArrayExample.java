@@ -27,7 +27,7 @@ public class ArrayExample {
 */		
 //		printFirstThreeIndexes(heights);
 //		printFirstThreeIndexes(somethings);
-//		loopThruArrays(heights);
+		loopThruArrays(heights);
 		loopThruArrays(somethings);
 		
 		boolean has7 = has7Init(somethings);

@@ -1,0 +1,17 @@
+
+Assignment 1===========
+int a =  10;
+int b = 20
+
+
+sop(a); // 10
+sop(b); // 20
+
+// some swap logic
+
+
+sop(a); // 20
+sop(b); // 10
+
+Assignment 1===========
+
