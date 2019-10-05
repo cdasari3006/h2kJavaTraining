@@ -11,7 +11,6 @@ public class ArrayEnhanceForLoop {
 	}
 	
 	public static void enhancedForLoop(int array[]) {
-		int index = 0;
 		for(int val : array){
 			System.out.println(val);
 		}
