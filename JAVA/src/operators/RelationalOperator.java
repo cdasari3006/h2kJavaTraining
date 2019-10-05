@@ -25,26 +25,23 @@ public class RelationalOperator {
 		boolean isSameAge = (rajuAge == rohanAge); // Shift + alt + R : Change Variable names
 		System.out.println(isSameAge);
 		
-		if(isJava){
+		if(isJava)
 			System.out.println("We are in java session...");
-		}else{
+		else
 			System.out.println("We are in some other session");
-		}
 		
-		if(isSameAge) {
+		if(isSameAge) 
 			System.out.println("Yes both are same");
-		}else{
+		else
 			System.out.println("Both are diferent");
-		}
 		
 		
 		int totalAge = 0;
 		
-		if(isSameAge) {
+		if(isSameAge)
 			totalAge = rajuAge + rohanAge;
-		}else{
+		else
 			totalAge = (rajuAge + rohanAge)/2;
-		}
 		
 		System.out.println("Total Age" + totalAge);
 		
