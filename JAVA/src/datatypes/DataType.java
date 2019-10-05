@@ -1,7 +1,7 @@
 package datatypes;
 // Ctrl +shift + F : this is for formatting.
 public class DataType {
-	public int age = 90;
+	private int age = 90;
 	
 	public static void main(String[] args) {
 		
