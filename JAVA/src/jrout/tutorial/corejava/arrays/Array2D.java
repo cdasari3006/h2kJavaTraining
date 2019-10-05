@@ -3,15 +3,13 @@ package jrout.tutorial.corejava.arrays;
 public class Array2D {
 
 	public static void main(String[] args) {
-		String age = "34";
+		int myAge = 34;
 		
 		String personDetails[][] = {{"Rohan","23","6"},{"Daniel","25","5"},{"Raj","20","4"}};
 		
 		// Rohan : 23 : 6
 		// Daniel : 25 : 5
 		// Raj : 20 : 4
-		
-		int myAge = Integer.parseInt(age);
 		
 		int rohanDetail[] = {23,6};
 		int danialDetail[] = {25,5};
