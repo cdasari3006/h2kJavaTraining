@@ -7,15 +7,11 @@ public class ArrayExample {
 		int age2 = 45;
 		int age3 = 56;
 		
-		int ages[] = new int[3];
+		int ages[] = {age1,age2,age3};
 		
 //		System.out.println(ages.length);
 		
 //		System.out.println(ages[0]);
-		
-		ages[0] = 34;
-		ages[1] = age2;
-		ages[2] = age3;
 		
 //		System.out.println(ages[0] + "  " + ages[1] +" "+ ages[2]);
 		
